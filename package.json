@@ -1,0 +1,35 @@
+{
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-html": "^4.0.3",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  },
+  "name": "eslint-config-mfe",
+  "description": "javascript eslint code style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhebing/eslint-config-mfe.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslint config",
+    "standard"
+  ],
+  "author": "chenhebing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenhebing/eslint-config-mfe/issues"
+  },
+  "homepage": "https://github.com/chenhebing/eslint-config-mfe#readme"
+}
