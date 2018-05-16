@@ -26,7 +26,10 @@
     "eslint config",
     "standard"
   ],
-  "author": "chenhebing",
+  "author": {
+    "name": "chenhebing",
+    "email": "1025263994@qq.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chenhebing/eslint-config-mpfe/issues"
