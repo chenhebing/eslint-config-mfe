@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-yarn add eslint-config-hfe --dev
+yarn add eslint-config-mfe --dev
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ add this to your .eslintrc file:
 
 ```
 {
-  "extends": "eslint-config-mfe"
+  "extends": "mfe"
 }
 ```
 
